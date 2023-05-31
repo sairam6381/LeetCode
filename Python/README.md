@@ -1,3 +1,6 @@
+# Solutions
+Solutions with Explainations
+
 [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/solutions/3582309/topic)
 
 [Sign of the Product of an Array](https://leetcode.com/problems/remove-nth-node-from-end-of-list/discuss/2636076/JAVA-SOLUTION-WITH-CLEAR-AND-EASY-EXPLANATION)
