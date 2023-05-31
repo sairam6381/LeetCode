@@ -1,63 +1,65 @@
 # Solutions
+
 Solutions provided with comprehensive explanations.
 
-[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/solutions/3582309/topic)
+1.[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/solutions/3582309/topic)
 
-[Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/solutions/3582026/topic/)
+2.[Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/solutions/3582026/topic/)
 
-[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/solutions/3581953/topic/)
+3.[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/solutions/3581953/topic/)
 
-[Roman to Integer](https://leetcode.com/problems/roman-to-integer/solutions/3581913/topic/)
+4.[Roman to Integer](https://leetcode.com/problems/roman-to-integer/solutions/3581913/topic/)
 
-[Palindrome Number](https://leetcode.com/problems/palindrome-number/solutions/3581854/topic/)
+5.[Palindrome Number](https://leetcode.com/problems/palindrome-number/solutions/3581854/topic/)
 
-[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/solutions/3581654/topic/)
+6.[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/solutions/3581654/topic/)
 
-[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/solutions/3580991/topic/)
+7.[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/solutions/3580991/topic/)
 
-[TWO Sum](https://leetcode.com/problems/two-sum/solutions/3580957/1-two-sum/)
+8.[TWO Sum](https://leetcode.com/problems/two-sum/solutions/3580957/1-two-sum/)
 
-[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/solutions/3581784/topic/)
+9.[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/solutions/3581784/topic/)
+
 <!--
-[Sum](https)
+10.[Sum](https)
 
-[Prefix](https)
+11.[Prefix](https)
 
-[Sum](https)
+12.[Sum](https)
 
-[Prefix](https)
+13.[Prefix](https)
 
-[Sum](https)
+14.[Sum](https)
 
-[Prefix](https)
+15.[Prefix](https)
 
-[Sum](https)
+16.[Sum](https)
 
-[Prefix](https)
+17.[Prefix](https)
 
-[Sum](https)
+18.[Sum](https)
 
-[Prefix](https)
+19.[Prefix](https)
 
-[Sum](https)
+20[Sum](https)
 
-[Prefix](https)
+21.[Prefix](https)
 
-[Sum](https)
+22.[Sum](https)
 
-[Prefix](https)
+23.[Prefix](https)
 
-[Sum](https)
+24.[Sum](https)
 
-[Prefix](https)
+25.[Prefix](https)
 
-[Sum](https)
+26.[Sum](https)
 
-[Prefix](https)
+27.[Prefix](https)
 
-[Sum](https)
+28.[Sum](https)
 
-[Prefix](https)
+29.[Prefix](https)
 
 
 -->
