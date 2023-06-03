@@ -22,7 +22,7 @@ Solutions provided with comprehensive explanations.
 
 10.[Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/solutions/3586175/topic/)
 
-11.[Contains Duplicate]([https](https://leetcode.com/problems/contains-duplicate/solutions/3586203/topic/))
+11.[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/solutions/3586203/topic/)
 
 12.[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/solutions/3587221/python/)
 
