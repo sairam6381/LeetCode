@@ -37,11 +37,11 @@ Level of Difficulties :
 14. [String Compression](https://leetcode.com/problems/string-compression/solutions/3608823/python/)🟡
 
 15. [ Convert 1D Array Into 2D Array](https://leetcode.com/problems/convert-1d-array-into-2d-array/solutions/3628887/python/)
+
+16. [Move Zeroes](https://leetcode.com/problems/move-zeroes/solutions/3629460/python/)
+
+17. [Is Subsequence](https://leetcode.com/problems/is-subsequence/solutions/3629520/python/)
 <!--
-16. [Sum](https)
-
-17. [Prefix](https)
-
 18. [Sum](https)
 
 19. [Prefix](https)
