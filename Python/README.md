@@ -41,9 +41,9 @@ and type the LeetCode number.
 17. [Is Subsequence](https://leetcode.com/problems/is-subsequence/solutions/3629520/python/) (392)
 
 18. [Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs/solutions/3632471/python/) (2352)
-<!--
-19. [Prefix](https) (xssss)
 
+19. [ Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/solutions/3632631/python/) (1502)
+<!--
 20. [Sum](https) (xssss)
 
 21. [Prefix](https) (xssss)
