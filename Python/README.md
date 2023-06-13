@@ -39,30 +39,30 @@ and type the LeetCode number.
 16. [Move Zeroes](https://leetcode.com/problems/move-zeroes/solutions/3629460/python/) (283)
 
 17. [Is Subsequence](https://leetcode.com/problems/is-subsequence/solutions/3629520/python/) (392)
+
+18. [Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs/solutions/3632471/python/) (2352)
 <!--
-18. [Sum](https)
+19. [Prefix](https) (xssss)
 
-19. [Prefix](https)
+20. [Sum](https) (xssss)
 
-20. [Sum](https)
+21. [Prefix](https) (xssss)
 
-21. [Prefix](https)
+22. [Sum](https) (xssss)
 
-22. [Sum](https)
+23. [Prefix](https) (xssss)
 
-23. [Prefix](https)
+24. [Sum](https) (xssss)
 
-24. [Sum](https)
+25. [Prefix](https) (xssss)
 
-25. [Prefix](https)
+26. [Sum](https) (xssss)
 
-26. [Sum](https)
+27. [Prefix](https) (xssss)
 
-27. [Prefix](https)
+28. [Sum](https) (xssss)
 
-28. [Sum](https)
-
-29. [Prefix](https)
+29. [Prefix](https) (xssss)
 
 
 -->
