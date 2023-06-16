@@ -47,9 +47,9 @@ and type the LeetCode number.
 20. [Container With Most Water](https://leetcode.com/problems/container-with-most-water/solutions/3633372/python/) (11)
 
 21. [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/solutions/3637462/easy-solution-in-c/) (2)
-<!--
-22. [Sum](https) (xssss)
 
+22. [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/solutions/3645329/solution-in-c-with-explanation/) (19)
+<!--
 23. [Prefix](https) (xssss)
 
 24. [Sum](https) (xssss)
