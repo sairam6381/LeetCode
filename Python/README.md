@@ -50,7 +50,7 @@ and type the LeetCode number.
 
 22. [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/solutions/3645329/solution-in-c-with-explanation/) (19)
 <!--
-23. [Prefix](https) (xssss)
+23. [Single Number](https://leetcode.com/problems/single-number/solutions/3655191/simple-solution-using-dict/) (136)
 
 24. [Sum](https) (xssss)
 
